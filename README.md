@@ -1,10 +1,15 @@
 # Zabbitter
 
-===
-
 ## Description
-This is the laravel project to estimate your beatmania IIDX skills.
+This is the iOS client to controll ZABBIX API.
 
 ![sample image](https://i.imgur.com/ZYwYzxd.gif)
 
-![s](https://imgur.com/vzbjcak)
+## Dependency
+iOS 13.3
+Xcode 11.3
+Swift 5.1.3
+
+## Author
+Hibiki Okada
+
